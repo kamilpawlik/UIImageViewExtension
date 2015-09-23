@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  UIImageViewExtension
-//
-//  Created by Kamil Pawlik on 23.09.2015.
-//  Copyright © 2015 COREO. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
