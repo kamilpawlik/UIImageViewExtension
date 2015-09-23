@@ -9,4 +9,4 @@ exampleImage.loadFromUrl(NSURL(string: "https://developer.apple.com/assets/eleme
 
 ## Author
 
-Kamil Pawlik @kamilpavlick
+Kamil Pawlik <a href="https://twitter.com/kamilpavlick">@kamilpavlick</a>
